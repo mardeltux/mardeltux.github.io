@@ -11,8 +11,10 @@ Zarpadas galletas de avena, bien potentes para aguantar varias horas.
 Ingredientes:
 - 2 tazas de avena
 - 1 taza de granola
+- 2 huevos
+- 3 cucharadas de miel
 - 1 taza de aceite de oliva o cualquier zumo
-- pasas, nueces a gusto
+- pasas, nueces, coco rallado, canela a gusto
 
 
 
