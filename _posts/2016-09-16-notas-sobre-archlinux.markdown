@@ -7,6 +7,7 @@ categories: Software libre
 
 Scheme sobre particionado BIOS/GPT:
 
+```
 parted /dev/sdx
 (parted) mklabel gpt
 (parted) mkpart non-fs 0% 2MiB
@@ -17,15 +18,17 @@ parted /dev/sdx
 (parted) set 1 bios_grub on
 (parted) set 2 boot on
 (parted) quit
-
+```
 
 Formatear y activar la swap
 
+```
 mkswap /dev/sdx3
 swapon /dev/sdx3
+```
 
 
 Fuente:
-https://wiki.archlinux.org/index.php/Swap
-https://wiki.archlinux.org/index.php/GNU_Parted
-https://wiki.archlinux.org/index.php/Installing_Arch_Linux_on_ZFS
+[Sobre swap](https://wiki.archlinux.org/index.php/Swap)
+[Sobre GNU_Parted](https://wiki.archlinux.org/index.php/GNU_Parted)
+[Leendo template de ejemplo](https://wiki.archlinux.org/index.php/Installing_Arch_Linux_on_ZFS)
