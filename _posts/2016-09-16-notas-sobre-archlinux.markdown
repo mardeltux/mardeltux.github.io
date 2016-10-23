@@ -7,7 +7,7 @@ categories: Software libre
 
 Scheme sobre particionado BIOS/GPT:
 
-```
+{% highlight %}
 parted /dev/sdx
 (parted) mklabel gpt
 (parted) mkpart non-fs 0% 2MiB
@@ -18,15 +18,14 @@ parted /dev/sdx
 (parted) set 1 bios_grub on
 (parted) set 2 boot on
 (parted) quit
-```
+{% endhighlight %}
 
 Formatear y activar la swap
 
-```
+{% highlight %}
 mkswap /dev/sdx3
 swapon /dev/sdx3
-```
-
+{% endhighlight %}
 
 Fuente:
 [Sobre swap](https://wiki.archlinux.org/index.php/Swap)
