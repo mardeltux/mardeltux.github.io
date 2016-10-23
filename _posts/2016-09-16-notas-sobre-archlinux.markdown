@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notas sobre git"
+title:  "Notas sobre archlinux"
 date:   2016-09-16 13:27:00 -0300
 categories: Software libre
 ---
