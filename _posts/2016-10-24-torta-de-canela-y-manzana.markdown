@@ -18,6 +18,9 @@ Ingredientes:
 - 500 grs de manzana (2 manzanas medianas)
 - 2 huevos
 
+Procedimiento:
+- 40 minutos de horno
+
 
 
 Fuente:
