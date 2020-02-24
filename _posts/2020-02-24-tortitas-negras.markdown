@@ -4,7 +4,7 @@ title: "Tortitas negras"
 date: 2020-02-24 07:18:00 -0300
 categories: Receta comida
 ---
-![](/assets/posts/20200224_tortitas-negras.jpeg)
+![Tortitas negras](/assets/posts/20200224_tortitas-negras.jpeg)
 
 El que busca encuentra, despues de mucho tiempo consegui una receta simple que busque por años para hacerle toritas negras a Clarita. La receta fue tomada de un programa llamado "El pan nuestro de cada dia" donde el protagonista es el panadero Juan Manuel Herrera.
 [Fuente.](https://elgourmet.com/receta/tortitas-negras-por-juan-manuel-herrera)
