@@ -6,6 +6,7 @@ categories: recetas comida
 ---
 
 ![Masa de harina integral para tarta](/assets/posts/20161023_masa-tarta-integral.jpeg)
+
 Esta masa de tarta se ha convertido en la estrella de la casa. Y junto con doña espinaca que muy barata han estado salian unas exelentes pascualinas.
 
 
@@ -15,6 +16,7 @@ Ingredientes:
 - 50 cm3 de aceite de oliva
 - 250 cm3 de agua bien fria
 - sal a gusto
+- semillas
 
 
 
