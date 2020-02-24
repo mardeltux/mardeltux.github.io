@@ -2,7 +2,7 @@
 layout: post
 title:  "Torta de canela y manzana"
 date:   2016-10-24 05:07:00 -0300
-categories: Receta comida
+categories: recetas comida
 ---
 
 Muy rica y aromatica por la canela y ademas, humeda por la manzana. Mmm
@@ -25,4 +25,4 @@ Procedimiento:
 
 
 Fuente:
-Vicky la estrella de la dulzura, investigando y webeando llego a una receta de cocineros argentinos que aqui la reproducimos.
+Vicky la estrella de la dulzura, investigando y webeando llego a una receta de [cocineros argentinos](https://cocinerosargentinos.com/postres/torta-de-manzana-y-canela-rapida) que aqui la reproducimos.

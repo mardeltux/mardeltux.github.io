@@ -2,10 +2,11 @@
 layout: post
 title:  "Masa de harina integral para tarta"
 date:   2016-10-23 10:29:00 -0300
-categories: Receta comida
+categories: recetas comida
 ---
 
-Esta masa de tarta se ha convertido en la estrella de la casa. Y junto con doña espinaca que muy barata ha estado salian unas exelentes pascualinas.
+![Masa de harina integral para tarta](/assets/posts/20161023_masa-tarta-integral.jpeg)
+Esta masa de tarta se ha convertido en la estrella de la casa. Y junto con doña espinaca que muy barata han estado salian unas exelentes pascualinas.
 
 
 Ingredientes:

@@ -2,7 +2,7 @@
 layout: post
 title: "Tortitas negras"
 date: 2020-02-24 07:18:00 -0300
-categories: Receta comida
+categories: recetas comida
 ---
 ![Tortitas negras](/assets/posts/20200224_tortitas-negras.jpeg)
 
