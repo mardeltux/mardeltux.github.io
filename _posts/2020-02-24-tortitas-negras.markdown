@@ -6,7 +6,7 @@ categories: Receta comida
 ---
 ![Tortitas negras](/assets/posts/20200224_tortitas-negras.jpeg)
 
-El que busca encuentra, despues de mucho tiempo consegui una receta simple que busque por años para hacerle toritas negras a Clarita. La receta fue tomada de un programa llamado "El pan nuestro de cada dia" donde el protagonista es el panadero Juan Manuel Herrera.
+El que busca encuentra, despues de mucho tiempo consegui una receta simple que busque por mucho tiempo para hacerle toritas negras a Clarita. La receta fue tomada de una serie llamada "El pan nuestro de cada dia" donde el protagonista es el panadero Juan Manuel Herrera.
 [Fuente.](https://elgourmet.com/receta/tortitas-negras-por-juan-manuel-herrera)
 
 
@@ -27,4 +27,4 @@ Cubierta:
 - Harina 160 grs
 - Azúcar 100grs
 
-Se mete al horno en 180 grados por 15 minutos. Comer calentitas con un buen mate y preferentemente acompañado.
+Se hornea a 180 grados por 15 minutos. Comer calentitas con un buen mate y preferentemente acompañado.
