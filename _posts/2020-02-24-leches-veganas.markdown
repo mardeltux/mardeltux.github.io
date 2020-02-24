@@ -6,7 +6,7 @@ categories: recetas comida
 ---
 ![Leches veganas](/assets/posts/20200224_leches-veganas.jpeg)
 
-En la busqueda del equilibrio fisico mental o normalmente llamada salud encontamos conveniente el consumo de leches veganas y aqui algunas recetas. XD
+En la busqueda del equilibrio fisico mental o normalmente llamado salud encontramos conveniente el consumo de leches veganas y aqui algunas recetas. XD
 
 [Fuente inspiradora #1.](https://youtu.be/7bE9xTLdbWE)
 [Fuente inspiradora #2.](https://youtu.be/9njkFLBu6WA)
