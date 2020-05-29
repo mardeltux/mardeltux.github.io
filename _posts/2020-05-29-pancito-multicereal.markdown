@@ -4,12 +4,7 @@ title: "Pan multicereal"
 date: 2020-05-29 07:18:00 -0300
 categories: recetas comida
 ---
-![Pan multicereal](/assets/posts/20200224_tortitas-negras.jpeg)
-
-<!-- El que busca encuentra, despues de mucho tiempo consegui una receta simple que busque por mucho tiempo para hacerle toritas negras a Clarita. La receta fue tomada de una serie llamada "El pan nuestro de cada dia" donde el protagonista es el panadero Juan Manuel Herrera.
-[Fuente.](https://elgourmet.com/receta/tortitas-negras-por-juan-manuel-herrera) -->
-
-
+![Pan multicereal](/assets/posts/2020-05-29-pancito-multicereal.jpeg)
 
 
 Ingredientes:
